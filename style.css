@@ -863,4 +863,19 @@ main-bottom{
     .text-corp{
         display: none;
     }
+    .partner-img{
+        display: none;
+    }
+    .partner-circle{
+        display: none;
+    }
+    .pipl-img{
+        margin-top: 10px;
+    }
+    .reiews p{
+        font-size: 8px;
+    }
+    .btn-more-fhree{
+        margin: 0px;
+    }
 }
