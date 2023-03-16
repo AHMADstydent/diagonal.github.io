@@ -878,6 +878,12 @@ main-bottom{
     .btn-more-fhree{
         margin: 0px;
     }
+    .three{
+        display: none;
+    }
+    .three-circle{
+        display: none;
+    }
 }
 @media(max-width: 375px){
     .head-one h1{
@@ -926,10 +932,16 @@ main-bottom{
         margin-top: 10px;
     }
     .reiews p{
-        font-size: 8px;
+        font-size: 10px;
     }
     .btn-more-fhree{
         margin: 0px;
+    }
+    .three{
+        display: none;
+    }
+    .three-circle{
+        display: none;
     }
 }
 @media(max-width: 452px){
@@ -979,9 +991,15 @@ main-bottom{
         margin-top: 10px;
     }
     .reiews p{
-        font-size: 8px;
+        font-size: 12px;
     }
     .btn-more-fhree{
         margin: 0px;
+    }
+    .three{
+        display: none;
+    }
+    .three-circle{
+        display: none;
     }
 }
